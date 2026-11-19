@@ -2,7 +2,7 @@
 
 Screen Pet Studio is a desktop companion built with Tauri and React. It gives the user interactive, context-aware pet windows for tools such as focus timers and battery monitoring.
 
-This project is currently serving as a Proof of Concept and is not fully finished 
+**This project is currently serving as a Proof of Concept and is not fully finished**
 
 ## Features
 
