@@ -1,0 +1,22 @@
+# Node
+node_modules/
+dist/
+.vite/
+.env
+.env.*
+!.env.example
+
+# Rust / Tauri
+target/
+src-tauri/target/
+src-tauri/Cargo.lock
+src-tauri/gen/
+
+# IDE and OS files
+.idea/
+.vscode/
+*.log
+*.tmp
+.DS_Store
+Thumbs.db
+Agents.md
