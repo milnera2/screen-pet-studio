@@ -9,7 +9,6 @@ dist/
 # Rust / Tauri
 target/
 src-tauri/target/
-src-tauri/Cargo.lock
 src-tauri/gen/
 
 # IDE and OS files
@@ -20,3 +19,4 @@ src-tauri/gen/
 .DS_Store
 Thumbs.db
 Agents.md
+AGENTS.md
